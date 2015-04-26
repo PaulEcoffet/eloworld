@@ -4,19 +4,24 @@
    Author's custom styles
    ========================================================================== */
 
+.voter
+{
+	height: 200px;
+}
 
+.contain
+{
+	width: 100%;
+	height: 100%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.contain a
+{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	font-size: 3rem;
+	vertical-align: middle;
+	text-decoration: none;
+	color: #333;
+}
