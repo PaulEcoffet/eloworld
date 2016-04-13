@@ -1,2 +1,3 @@
 # eloworld
-Elo everything you want, even the world
+
+Use the Elo algorithm to make choices more easily.
